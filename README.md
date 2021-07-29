@@ -1,2 +1,2 @@
 # Keplerjs Demo App
-Visualizing Data with Keplerjs library.# keplerjs-demo
+Visualizing Data with Keplerjs library.
