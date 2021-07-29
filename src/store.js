@@ -6,7 +6,7 @@ import { taskMiddleware } from "react-palm/tasks"
 const initialState = {}
 
 const reducer = combineReducers({
-    KeplerGl: keplerGlReducer,
+    keplerGl: keplerGlReducer,
 })
 
 export default createStore(
